@@ -1,31 +1,31 @@
 .amarillo {
 	background-color: yellow;
-	position:absolute;
-	right: 0px;
-	bottom: 0px;
+	position:relative;
+	
 }
 .rojo {
 	background-color: red;
-	position:absolute;
-	left:0px;
-	top: 0px; 
+	position:relative;
+ 
 
 }
 .azul {
 	background-color:blue;
-	position: absolute;
-	left:0px;
-	bottom:0px;
+	position:absolute;
+
+
 }
 div {
 	height:200px;
 	width: 200px;
 }
-.rosa{
-	background-color:pink;
-	position:absolute ;
-	right: 0px;
-	top: 0px;
+.verde{
+	background-color:green;
+	position:absolute;
+	float:right;
+	left: 200px;
+	top: 200px;
+
 
 }
 body {
