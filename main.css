@@ -1,10 +1,10 @@
 .amarillo {
 	background-color: yellow;
-	position: relative;
+	position: static;
 }
 .rojo {
 	background-color: red;
-	position: relative;
+	position: static ;
 
 }
 .azul {
